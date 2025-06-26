@@ -12,6 +12,12 @@ The primary objective is to **predict future energy usage** to support energy gr
 
 ---
 
+**Author**: [Einstein Ebereonwu](https://www.linkedin.com/in/einstein-ebereonwu/) • [GitHub](https://github.com/munas-git)  
+**Dataset**: [Hourly Energy Consumption](https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption?select=AEP_hourly.csv)  
+**Notebooks**: [GitHub Notebook](https://github.com/munas-git/US-Energy-Consumption-Forecasting-Prophet-NeuralProphet/blob/main/analysis.ipynb) | [Kaggle Version](https://www.kaggle.com/code/munaee/energy-consumption-forecast-prophet-neural-pro)
+
+---
+
 ## Pipeline Highlights
 
 | Stage                        | Key Highlights                                                                                                                                                            |
@@ -45,7 +51,7 @@ The primary objective is to **predict future energy usage** to support energy gr
 
 ## Tech Stack
 
-Python • pandas • Prophet • NeuralProphet • scikit-learn • statsmodels • seaborn • ACF/PACF • holidays • matplotlib • plotly
+Python • pandas • Prophet • NeuralProphet • scikit-learn • statsmodels • seaborn • ACF/PACF • holidays • matplotlib • plotly • Git/GitHub
 
 ---
 
@@ -89,9 +95,3 @@ Python • pandas • Prophet • NeuralProphet • scikit-learn • statsmodels
 This updated pipeline demonstrates how combining **interpretable models**, **external calendar data**, and **robust CV-tuned hyperparameters** can produce **high-accuracy short-term forecasts**, while also capturing seasonal and holiday-driven trends in long-term energy usage.
 
 It reflects a rigorous modeling strategy that scales beyond the academic realm and is deployable in real-world energy planning and sustainability workflows.
-
----
-
-**Author**: [Einstein Ebereonwu](https://www.linkedin.com/in/einstein-ebereonwu/) • [GitHub](https://github.com/munas-git)  
-**Dataset**: [Hourly Energy Consumption](https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption?select=AEP_hourly.csv)  
-**Notebooks**: [GitHub Notebook](https://github.com/munas-git/US-Energy-Consumption-Forecasting-Prophet-NeuralProphet/blob/main/analysis.ipynb) | [Kaggle Version](https://www.kaggle.com/code/munaee/energy-consumption-forecast-prophet-neural-pro)
