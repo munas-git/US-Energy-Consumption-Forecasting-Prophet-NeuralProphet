@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on **forecasting daily energy consumption** for the **AEP region**, leveraging advanced time series modeling techniques using the PJM Interconnection dataset. PJM Interconnection LLC is a regional transmission organization (RTO) responsible for coordinating wholesale electricity movement across multiple U.S. states. The dataset provides **hourly energy consumption data**, which is **aggregated to daily levels** to extract broader consumption patterns.
+This project focuses on **forecasting daily energy demand** for the **AEP region**, leveraging advanced time series modeling techniques using the PJM Interconnection dataset. PJM Interconnection LLC is a regional transmission organization (RTO) responsible for coordinating wholesale electricity movement across multiple U.S. states. The dataset provides **hourly energy consumption data**, which is **aggregated to daily levels** to extract broader consumption patterns.
 
 The primary objective is to **predict future energy usage** to support energy grid planning, load balancing, and long-term infrastructure management. This work builds a **robust, interpretable, and scalable pipeline** utilizing:
 
